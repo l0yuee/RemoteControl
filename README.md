@@ -19,5 +19,5 @@
 
 
 
-![](.\img\1.png)
+![](https://github.com/l0yuee/RemoteControl/blob/master/img/1.png)
 
