@@ -19,5 +19,5 @@
 
 
 
-![](https://github.com/l0yuee/RemoteControl/blob/master/img/1.png)
+![image](https://github.com/l0yuee/RemoteControl/blob/master/img/1.png)
 
